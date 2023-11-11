@@ -4,6 +4,8 @@
 
 This project implements object detection using YOLOv8 on a custom dataset created using Roboflow. YOLOv8, developed by Ultralytics, is a state-of-the-art real-time object detection system that can detect a wide range of objects in images.
 
+![dav_image](https://miro.medium.com/v2/resize:fit:1029/1*u3sO9oyVorA5FCaUZI7W-w.png)
+
 ## Table of Contents
 
 - [**Introduction**](#intro)
