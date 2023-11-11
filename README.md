@@ -27,7 +27,7 @@ To run this code, you will need the following Python libraries:
 
   1. A single image, the link to which is provided in the notebook.
      
-  2. A custom roboflow dataset which can be accessed ![here](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc)
+  2. A custom roboflow dataset which can be accessed [here](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc)
 
 ## Installation <a name="install"></a>
 
